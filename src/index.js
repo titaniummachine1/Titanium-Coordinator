@@ -1,4 +1,4 @@
-// Quoridor distributed-testing coordinator (Cloudflare Worker).
+// Corridor-engine distributed-testing coordinator (Cloudflare Worker).
 //
 // Endpoints:
 //   POST /webhook        — GitHub push webhook (HMAC-verified). Debounces, queues SPRT batch 0.
