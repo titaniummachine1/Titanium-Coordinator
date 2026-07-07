@@ -1,9 +1,9 @@
-# Titanium Corridor Coordinator
+# Titanium Coordinator
 
-Repo: [github.com/titaniummachine1/Titanium-Corridor-Coordinator](https://github.com/titaniummachine1/Titanium-Corridor-Coordinator)
+Repo: [github.com/titaniummachine1/Titanium-Coordinator](https://github.com/titaniummachine1/Titanium-Coordinator)
 
 Cloudflare Worker that coordinates distributed SPRT testing of the Titanium
-Corridor engine (Fishtest-style, hobby scale).
+engine (Fishtest-style, hobby scale).
 
 Licensed under **GPL-3.0-or-later** (see `LICENSE`). Worker secrets
 (`WEBHOOK_SECRET`, `OWNER_TOKEN`) are set via `wrangler secret put` — never

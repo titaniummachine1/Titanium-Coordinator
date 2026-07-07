@@ -1,4 +1,4 @@
-name = "corridor-coordinator"
+name = "titanium-coordinator"
 main = "src/index.js"
 compatibility_date = "2026-06-01"
 
@@ -14,5 +14,5 @@ id = "REPLACE_WITH_KV_NAMESPACE_ID"
 #   HETZNER_TOKEN    — optional, only used in BALANCE/SPEED modes
 
 [vars]
-ENGINE_REPO = "https://github.com/titaniummachine1/titanium-corridor"
+ENGINE_REPO = "https://github.com/titaniummachine1/titanium-engine"
 MAIN_BRANCH = "main"
